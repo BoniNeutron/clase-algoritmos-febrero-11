@@ -22,4 +22,3 @@ elif ubicacion == 4:
     print('amarilla')
 else:
     print('en ninguna')
-
